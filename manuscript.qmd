@@ -18,6 +18,6 @@ Insert results
 
 # Discussion
 
-Insert discussion
+Jasper concludes that we suck at github :)
 
 The `echo: false` option disables the printing of code (only output is displayed).
