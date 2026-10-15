@@ -1,0 +1,23 @@
+---
+title: "manuscript"
+format: html
+editor: visual
+---
+
+# Introduction
+
+Collaborate repository
+
+# Methods
+
+Insert methods
+
+# Results
+
+Insert results
+
+# Discussion
+
+Jasper concludes that we suck at github :)
+
+The `echo: false` option disables the printing of code (only output is displayed).
